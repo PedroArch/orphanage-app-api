@@ -1,0 +1,14 @@
+TO-DO CHECK LIST DAY 2
+
+[] rotas e start no server // express
+[] configurar o banco de dados
+[] criar tabelas banco de dados
+[] criar orfanato sem images
+[] abstrair com controllers
+[] listar orfanatos
+[] detalhes orfanato
+[] upload de imagens // mutler
+[] criar as views
+[] lidar com exceções //
+[] validar dados // yup
+[] liberar acesso fora domínio // cors
