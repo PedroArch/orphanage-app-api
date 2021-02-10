@@ -1,0 +1,14 @@
+TO-DO CHECKLIST DAY 2	
+
+[x] rotas e start no server // express	
+[x] configurar o banco de dados	// sqlite3
+[x] criar tabelas banco de dados	// typeorm
+[x] criar orfanato sem images	- models/schemas
+[x] abstrair com controllers	
+[x] listar orfanatos	
+[x] detalhes orfanato	
+[x] upload de imagens // multer
+[x] criar as views	
+[x] lidar com exceções //	express-async-errors
+[x]] validar dados // yup	
+[ ] liberar acesso fora domínio // cors
